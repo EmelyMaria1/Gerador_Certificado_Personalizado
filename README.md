@@ -9,11 +9,11 @@ Após a confirmação, o sistema inscreve o nome na imagem base do certificado e
 
 🚀 Funcionalidades:
 ------------------------------
-Inserir texto (nome) sobre uma imagem base.
+Inserir texto (nome) sobre uma imagem base;
 
-Gerar certificado automaticamente.
+Gerar certificado automaticamente;
 
-Salvar certificado pronto na pasta raiz.
+Salvar certificado pronto na pasta raiz;
 
 Interface gráfica intuitiva.
 
